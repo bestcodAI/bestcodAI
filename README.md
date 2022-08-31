@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="333px" height="auto" src="https://pin.it/6ENHzLu" height="175px">
+    <img width="333px" height="auto" src="https://pin.it/tUbYnWK" height="175px">
 </p>
 
 <h1 align="center">Hello 👋, I'm CHAMNAN PROGRAMMER</h1>
