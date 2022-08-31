@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/chamnan-chou-275148229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@chamnan" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC9DflhK_PPCmdzgJRf6rynA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vloge code" height="30" width="40" /></a>
-   <a href="https://www.youtube.com/channel/UC9DflhK_PPCmdzgJRf6rynA" target="blank"><img align="center" src="https://github.com/bestcodAI/newproject/blob/master/telegram%20(2).png" alt="vloge code" height="30" width="40" /></a>
+   <a href="https://t.me/chamnanprogrammer" target="blank"><img align="center" src="https://github.com/bestcodAI/newproject/blob/master/telegram%20(2).png" alt="vloge code" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
