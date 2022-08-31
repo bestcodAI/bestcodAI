@@ -1,4 +1,4 @@
-<a href="#"><img width="50%" height="auto" align="center" src="https://gfycat.com/exaltedaccomplishedhornedtoad" height="175px"></a>
+<a href="#"><img width="100%" height="auto" src="https://gfycat.com/exaltedaccomplishedhornedtoad" height="175px"></a>
 </br>
 </br>
 <h1 align="center">Hello 👋, I'm CHAMNAN PROGRAMMER</h1>
