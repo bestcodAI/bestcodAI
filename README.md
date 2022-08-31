@@ -1,9 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://gfycat.com/exaltedaccomplishedhornedtoad"></a>
-</br>
-</br>
 <h1 align="center">Hello 👋, I'm CHAMNAN PROGRAMMER</h1>
 <h3 align="center">I am a student Information technology from Cambodia</h3>
-<img align="right" alt=""Coding" width="600" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt=""Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 </br>
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bestcodai&label=Profile%20views&color=0e75b6&style=flat" alt="bestcodai" /> </p>
