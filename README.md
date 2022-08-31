@@ -4,10 +4,10 @@
 
 <h1 align="center">Hello 👋, I'm CHAMNAN</h1>
 <h3 align="center">I am a student Information technology from Cambodia</h3>
-<img align="right" alt="Coding" width="450" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-<img align="left" alt="Serch" width="450"  src="https://i.pinimg.com/originals/1c/b3/2e/1cb32e5eca87add3785208e57a3e0e3e.gif">
-<img  align="left" alt="Serch" width="450"  src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif">
-<img  align="right" alt="Serch" width="450"  src="https://static1.squarespace.com/static/52797d42e4b01f648b9e8392/t/5519c949e4b0dce6104c7999/1427753321972">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="left" alt="Serch" width="400"  src="https://i.pinimg.com/originals/1c/b3/2e/1cb32e5eca87add3785208e57a3e0e3e.gif">
+<img  align="left" alt="Serch" width="400"  src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif">
+<img  align="right" alt="Serch" width="400"  src="https://static1.squarespace.com/static/52797d42e4b01f648b9e8392/t/5519c949e4b0dce6104c7999/1427753321972">
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bestcodai&label=Profile%20views&color=0e75b6&style=flat" alt="bestcodai" /></p>
 
@@ -33,7 +33,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/coffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="coffee" />
-</a><!-- <a href="https://ko-fi.com/coffee"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="coffee" /></a></p><br><br> -->
+</a><a href="https://ko-fi.com/coffee"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="coffee" /></a></p><br><br>
                                                                                                                                                  </br>
                                                                                                                                                  </br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bestcodai&show_icons=true&locale=en&layout=compact" alt="bestcodai" /></p>
