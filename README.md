@@ -39,3 +39,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bestcodai&show_icons=true&locale=en&layout=compact" alt="bestcodai" /></p>
 
 <p align="left">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=bestcodai&show_icons=true&locale=en" alt="bestcodai" /></p>
+<p><script async custom-element="amp-auto-ads"         src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js"> </script></p>
