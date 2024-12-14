@@ -5,10 +5,10 @@
 <h1 align="center">Hello 👋, I'm CHAMNAN</h1>
 <h3 align="center">I am a student Information technology from Cambodia</h3>
 
-<img align="right" alt="Coding" width="400" src="https://kratikal.com/blog/wp-content/uploads/2023/02/key-click-typing-1.gif">
+<!--<img align="right" alt="Coding" width="400" src="https://kratikal.com/blog/wp-content/uploads/2023/02/key-click-typing-1.gif">
 <img align="left" alt="Serch" width="400"  src="https://i.pinimg.com/originals/1c/b3/2e/1cb32e5eca87add3785208e57a3e0e3e.gif">
 <img  align="left" alt="Serch" width="400"  src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif">
-<img  align="right" alt="Serch" width="400"  src="https://static1.squarespace.com/static/52797d42e4b01f648b9e8392/t/5519c949e4b0dce6104c7999/1427753321972">
+<img  align="right" alt="Serch" width="400"  src="https://static1.squarespace.com/static/52797d42e4b01f648b9e8392/t/5519c949e4b0dce6104c7999/1427753321972">-->
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bestcodai&label=Profile%20views&color=0e75b6&style=flat" alt="bestcodai" /></p>
 
